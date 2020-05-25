@@ -35,7 +35,8 @@ web site</a>:
 
 ## Loading the data
 
-
+Load the data using getdata.R script which will create a directory called
+`data` and unzip the data inside this directory.
 
 
 
